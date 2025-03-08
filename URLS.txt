@@ -4,11 +4,19 @@ KIWI
 https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi_m_1a.json
 https://tinyurl.com/yeydtemb
 
+KIWI1
+https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi1_m_1a.json
+https://tinyurl.com/xxx
+
 #Mainnet Extended Metadata from Mar25
 
 KIWI
 https://raw.githubusercontent.com/kiwipool/apex/refs/heads/main/mn_kiwi_e_1a.json
 https://tinyurl.com/59cjeesn
+
+KIWI1
+https://raw.githubusercontent.com/kiwipool/apex/refs/heads/main/mn_kiwi1_e_1a.json
+https://tinyurl.com/xxx
 
 ***
 
