@@ -1,1 +1,11 @@
+#Testnet Master from Mar25
 
+KIWI
+https://raw.githubusercontent.com/kiwipool/apex/main/tn_kiwi_m_1a.json
+https://tinyurl.com/2jj5tsxm
+
+#Testnet Extended Metadata from Mar25
+
+KIWI
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_e_1a.json
+https://tinyurl.com/xxx
