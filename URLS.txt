@@ -2,7 +2,7 @@
 
 KIWI
 https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi_m_1a.json
-https://tinyurl.com/xxx
+https://tinyurl.com/yeydtemb
 
 #Mainnet Extended Metadata from Mar25
 
