@@ -1,3 +1,17 @@
+#Mainnet Master from Mar25
+
+KIWI
+https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi_m_1a.json
+https://tinyurl.com/xxx
+
+#Mainnet Extended Metadata from Mar25
+
+KIWI
+https://raw.githubusercontent.com/kiwipool/apex/refs/heads/main/mn_kiwi_e_1a.json
+https://tinyurl.com/xxx
+
+***
+
 #Testnet Master from Mar25
 
 KIWI
