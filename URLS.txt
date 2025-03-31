@@ -8,6 +8,9 @@ KIWI1
 https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi1_m_1a.json
 https://tinyurl.com/52mdtmwm
 
+https://raw.githubusercontent.com/kiwipool/apex/main/mn_kiwi1_m_1b.json
+https://tinyurl.com/bddyptuh
+
 #Mainnet Extended Metadata from Mar25
 
 KIWI
